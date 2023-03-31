@@ -1,6 +1,6 @@
 Name:		texlive-tikz-lake-fig
 Version:	55288
-Release:	1
+Release:	2
 Summary:	Schematic diagrams of lakes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-lake-fig
