@@ -3,7 +3,7 @@ Version:	55288
 Release:	2
 Summary:	Schematic diagrams of lakes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-lake-fig
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-lake-fig
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-lake-fig.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-lake-fig.doc.r%{version}.tar.xz
